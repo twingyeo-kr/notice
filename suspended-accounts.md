@@ -4,6 +4,8 @@
 | ---- | ---- | ---- |
 | @pikadodon | 정지 | 스팸 계정 |
 | @nestordon | 정지 | 스팸 계정 |
+| @Alimphiy@mstdn.jp     | 정지 | iOS 문자열 크래시 버그 악용 |
+| @vvvvvv1vvvvv@mstdn.jp | 정지 | iOS 문자열 크래시 버그 악용 |
 
 ### 부가 설명 
 
