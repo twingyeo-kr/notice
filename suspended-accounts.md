@@ -7,6 +7,7 @@
 | `@Alimphiy@mstdn.jp`            | 정지                         | iOS 문자열 크래시 버그 악용                       |
 | `@vvvvvv1vvvvv@mstdn.jp`        | 정지                         | iOS 문자열 크래시 버그 악용                       |
 | `@ar7_akito_takizawa@mstdn.jp`  | 침묵, 정지                   | NSFW 지정하지 않은 과도한 성적・잔혹 묘사 컨텐츠  |
+| `@ar7_spiritualist@mstdn.jp`    | 침묵, 정지                   | NSFW 지정하지 않은 과도한 성적・잔혹 묘사 컨텐츠  |
 
 ### 부가 설명 
 
