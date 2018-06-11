@@ -4,8 +4,12 @@
 
 # 관리자 목록
 
-- @cheesekun@twingyeo.kr
-- @Serazard@twingyeo.kr
+- [@cheesekun@twingyeo.kr](https://twingyeo.kr/@cheesekun)
+- [@Serazard@twingyeo.kr](https://twingyeo.kr/@Serazard)
+
+# 모더레이터 목록
+
+- [@sftblw@twingyeo.kr](https://twingyeo.kr/@sftblw)
 
 # 차단・정지 등 처리 사항에 대해
 
