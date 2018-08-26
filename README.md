@@ -9,7 +9,7 @@
 
 # 모더레이터 목록
 
-- [@sftblw@twingyeo.kr](https://twingyeo.kr/@sftblw)
+- [@sftblw@twingyeo.kr](https://twingyeo.kr/@sftblw) - NSFW(R-18) 신고 처리 담당
 
 # 차단・정지 등 처리 사항에 대해
 
