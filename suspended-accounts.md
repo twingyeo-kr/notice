@@ -10,7 +10,8 @@
 | `@ar7_spiritualist@mstdn.jp`    | 침묵, 정지                   | NSFW 지정하지 않은 과도한 성적・잔혹 묘사 컨텐츠  |
 | `@akito@fleur7.com`             | 침묵, 정지                   | NSFW 지정하지 않은 과도한 성적・잔혹 묘사 컨텐츠  |
 | `@PerrorisT@pl.smuglo.li`             | 침묵                   | NSFW 지정하지 않은 과도한 성적 묘사 컨텐츠  |
-| `@MKULTRA@friends.nico`<br/>`@MKULTRA@mastdn.io`         | 정지                         | 헤이트 스피치 멘션 스팸 계정                    |
+| `@MKULTRA@friends.nico`<br/>`@MKULTRA@mastdn.io`         | 정지                         | 헤이트 스피치 멘션 스팸 계정                    | `@wdawawdawd@mastodon.social`   | 정지                         | 설명 내 홍보성 문구 기재, 무분별한 팔로우, 스팸 계정  |
+
 
 ### 부가 설명 
 
